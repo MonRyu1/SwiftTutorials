@@ -114,7 +114,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="leftImageview" destination="HI2-12-YNs" id="8ki-ZV-xiW"/>
+                        <outlet property="leftImageView" destination="HI2-12-YNs" id="YWj-1h-ahx"/>
                         <outlet property="leftScoreLabel" destination="TpD-eC-C5Z" id="dWB-6V-Eqy"/>
                         <outlet property="rightImageView" destination="KHd-eg-tnS" id="sOe-bn-N60"/>
                         <outlet property="rightScoreLabel" destination="FOW-60-foz" id="NDJ-PQ-pL3"/>
